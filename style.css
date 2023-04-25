@@ -1,0 +1,21 @@
+.navibar{
+    display: inline-block;
+    padding: 20px;
+}
+
+nav{
+    border: black 1px solid;
+}
+
+article{
+    border: black 1px solid;
+}
+
+.titulo{
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.centrar{
+    text-align: center;
+}
